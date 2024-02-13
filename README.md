@@ -1,6 +1,6 @@
 # The Watchful Network
 
-[![Discord](/images/discord%20banner.png)]([https://discord.gg/WjegsxEuAD](https://discord.gg/DA8uUuMhgF))
+[![Discord](/images/discord.png)]([https://discord.gg/WjegsxEuAD](https://discord.gg/DA8uUuMhgF))
 
 ## Embed designs
 <img align="right" height="180" src="/images/Embeds/1.png"/>
