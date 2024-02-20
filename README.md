@@ -4,3 +4,5 @@
 
 ## Embed designs
 [Look at all available Embed designs](/readme/embde_designs.md)
+## Command descriptions
+[Inform yourself about commands](/readme/commands.md)
